@@ -1,0 +1,11 @@
+.bg-nyo {
+    background-image: url(Cover.jpg);
+    background-size: cover;
+    background-position:center;
+    background-repeat:no-repeat;
+    background-color: black;
+}
+
+section {
+    min-height: 420px;
+}
